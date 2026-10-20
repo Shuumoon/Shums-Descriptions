@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+        {"text": "Adds custom descriptions for a variety of mods. ["},
+        {"text": "v1.5.1", "color": "green"},
+        {"text": "]"}
+    ]
+  }
+}
